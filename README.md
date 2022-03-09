@@ -15,7 +15,7 @@ FastQC показал, что качество прчтений хорошее. 
  * Basic statistics
      ENCFF001FKV | ENCFF001FKT | ENCFF001HNS 
      --- | --- | --- 
-     ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_bas_stat.png)
+     ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_2.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_2.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_2.PNG)
   
      
 
