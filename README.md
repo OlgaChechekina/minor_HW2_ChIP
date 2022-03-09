@@ -12,12 +12,21 @@ FastQC показал, что качество прчтений хорошее. 
      --- | --- | --- 
      ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_1.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_1.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_1.PNG)
 
- * Basic statistics
+ * Per tile
      ENCFF001FKV | ENCFF001FKT | ENCFF001HNS 
      --- | --- | --- 
      ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_2.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_2.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_2.PNG)
   
-     
+    
+ * SEQ & GC content
+     ENCFF001FKV | ENCFF001FKT | ENCFF001HNS 
+     --- | --- | --- 
+     ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_3.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_3.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_3.PNG)
+  
+* Per base N content & seq length distribution
+     ENCFF001FKV | ENCFF001FKT | ENCFF001HNS 
+     --- | --- | --- 
+     ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_4.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_4.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_4.PNG)  
 
 
 ![image](https://user-images.githubusercontent.com/60808830/157463130-878c9b56-416f-4e4a-ac62-c1f3bc019191.png)
