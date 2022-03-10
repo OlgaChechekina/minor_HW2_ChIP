@@ -28,5 +28,13 @@ FastQC показал, что качество прчтений хорошее. 
      --- | --- | --- 
      ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKV_FQC_4.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/FKT_FQC_4.PNG) | ![](https://github.com/OlgaChechekina/minor_HW2_ChIP/blob/main/FastQC_pics/HNS_FQC_4.PNG)  
 
+#3. STATS
+
+Процент выравнивания чтений низкий в связи с тем, что мы используем только одну хромосому а не весь геном.
 
 ![image](https://user-images.githubusercontent.com/60808830/157463130-878c9b56-416f-4e4a-ac62-c1f3bc019191.png)
+
+#Venn Diagram
+Малое число пересечений говорит о том, что выравнивание производилось на одну хромосому.
+
+Число пересечений отличается так как рассчитывается число пиков в первом файле, которые есть и во втором файле, а затем наоборот.
